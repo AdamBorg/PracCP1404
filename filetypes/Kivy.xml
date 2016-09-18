@@ -16,4 +16,7 @@
     <keywords3 keywords="on_alpha;on_anim_alpha;on_anim_delay;on_annotation;on_arrow_image;on_arrow_pos;on_background_color;on_background_image;on_checkbox_active;on_children;on_close;on_collapse;on_collapse_alpha;on_color;on_complete;on_config;on_config_change;on_container;on_content;on_current;on_cursor;on_default_tab_text;on_dismiss;on_do_default_tab;on_double_tap;on_duration_change;on_effect_cls;on_effect_x;on_effect_y;on_enter;on_entries_cleared;on_entry_added;on_focus;on_foreground_color;on_fullscreen;on_group;on_hint_text;on_hsv;on_index;on_is_open;on_key_down;on_key_up;on_leave;on_lexer;on_load_func;on_menu;on_nocache;on_node_collapse;on_node_expand;on_offset;on_opacity;on_open;on_orientation;on_origin;on_padding_x;on_padding_y;on_panel;on_parent;on_pause;on_play;on_pos;on_position;on_position_change;on_pre_enter;on_pre_leave;on_press;on_progress;on_quad_touch;on_radius;on_readonly;on_ref_press;on_release;on_remove_subentry;on_resume;on_root_options;on_scroll_complete;on_select;on_sizable_from;on_size;on_slides;on_source;on_state;on_subentry_to_entry;on_submit;on_tab_height;on_tab_pos;on_tab_width;on_tex;on_text;on_text_validate;on_texture;on_texture_size;on_touch_down;on_touch_move;on_touch_up;on_transform;on_triple_tap;on_value;on_video;on_viewport;on_volume" />
     <keywords4 keywords="None;root;self" />
   </highlighting>
+  <extensionMap>
+    <mapping ext="kv" />
+  </extensionMap>
 </filetype>
