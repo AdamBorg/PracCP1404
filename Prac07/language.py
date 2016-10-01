@@ -9,4 +9,6 @@ def main():
     for language in code_languages:
         if language.is_dynamic():
             print(language.code_name)
+
+    print(ProgrammingLanguage("Ruby", "Dynamic", True, 1995))
 main()
